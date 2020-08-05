@@ -1,0 +1,90 @@
+#!/usr/bin/env python3
+
+from sys import argv
+from os import listdir, path
+
+import json
+
+from pygame import Rect, Surface, display, event, transform
+from pygame.locals import QUIT, KEYUP, K_ESCAPE, MOUSEBUTTONUP
+
+from pylib.game_data import GameData
+from pylib.tileset import Tileset
+from pylib.map_data import MapData
+from pylib.map_view import MapView
+from pylib.grid_view import make_grid_view
+
+try:
+    mapfile = argv[1]
+except IndexError:
+    print('Usage: viewmap sample.map')
+    exit(1)
+
+try:
+    with open('config.json') as f:
+        read_data = f.read()
+        config = json.loads(read_data)
+except FileNotFoundError:
+    print('Could not read config.json')
+    exit(2)
+
+def render_viewport(grid_view, map_view):
+    viewport = Surface(grid_view.size())
+
+    for y in range(MapData.HEIGHT):
+        # Drawing the columns in reverse order ensures tiles are layered correctly in iso mode
+        for x in reversed(range(MapData.WIDTH)):
+            dest = grid_view.get_tile_offset(x, y)
+            for layer in ['terrain', 'furniture']:
+                sprite = map_view.get_sprite((x, y), layer)
+                if sprite:
+                    viewport.blit(sprite, dest)
+
+    return viewport
+
+available_tilesets = []
+for tileset_name in listdir(config['tileset_dir']):
+    filename = path.join(config['tileset_dir'], tileset_name, 'tile_config.json')
+    if path.isfile(filename):
+        available_tilesets.append((tileset_name, filename))
+
+tile_config_file = None
+while tile_config_file is None:
+    for (i, (tileset_name, _)) in enumerate(available_tilesets):
+        print(f"{i}) {tileset_name}")
+    try:
+        sel = int(input("Select a tileset: "))
+    except EOFError:
+        print()
+        exit()
+    if sel in range(len(available_tilesets)):
+        (_, tile_config_file) = available_tilesets[sel]
+
+game_data = GameData(config['data_dir'])
+tileset = Tileset(tile_config_file, game_data)
+map_data = MapData(mapfile)
+map_view = MapView(map_data, game_data, tileset)
+grid_view = make_grid_view(tileset)
+
+zoom_factor = 2 if 'UltimateCataclysmDemo' in tile_config_file else 4
+scale = zoom_factor * tileset.pixelscale
+screen_size = grid_view.size(scale)
+screen = display.set_mode(screen_size)
+
+viewport = render_viewport(grid_view, map_view)
+transform.scale(viewport, screen_size, screen)
+
+display.flip()
+
+while 1:
+    ev = event.wait()
+    if ev.type == QUIT:
+        break
+    elif ev.type == KEYUP and ev.key == K_ESCAPE:
+        break
+    elif ev.type == MOUSEBUTTONUP:
+        loc = grid_view.get_tile_location(*ev.pos, scale)
+        for layer in ['terrain', 'furniture']:
+            if loc in map_data.layers[layer]:
+                obj_id = map_data.layers[layer][loc]
+                print(f"{layer}: {game_data.entries[obj_id]['name']}")
