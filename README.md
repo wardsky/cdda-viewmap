@@ -14,6 +14,6 @@ to your CDDA game data and tileset directories.
 Yet to be implemented:
 
 - Layers other than terrain and furniture.
-- ASCII fallback and oversized sprites
+- ASCII fallback sprites
 - Seasonal tile variants
 - Animated / randomised tiles

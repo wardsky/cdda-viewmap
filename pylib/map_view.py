@@ -57,8 +57,12 @@ class MapView:
             tile = self.get_tile_for_id(self.map_data.layers[layer][loc])
             if tile is not None:
                 sprites = tile['sprites']
+                offset = (tile['offset_x'], tile['offset_y'])
+                if len(sprites) == 0:
+                    return (None, offset)
                 connectivity_code = self.get_connectivity(layer, loc)
                 if len(sprites) == len(connectivity_table):
-                    return sprites[connectivity_code]
+                    return (sprites[connectivity_code], offset)
                 (_, orientation) = connectivity_table[connectivity_code]
-                return sprites[orientation % len(sprites)]
+                return (sprites[orientation % len(sprites)], offset)
+        return (None, (0, 0))

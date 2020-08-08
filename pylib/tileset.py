@@ -25,7 +25,7 @@ connectivity_table = (
     ('center', 0),
 )
 
-def get_tile_sprites(sprites, spec, rotate=False):
+def get_tile_sprites(spriteset, spec, rotate=False):
     # Sprite specifier 'spec' can have different forms:
     # 1. Single value
     # 2. List of 1/2/4 values (rotations)
@@ -36,14 +36,14 @@ def get_tile_sprites(sprites, spec, rotate=False):
         if len(spec) == 0:
             return None
         if type(spec[0]) is dict:
-            return get_tile_sprites(sprites, spec[0]['sprite'])
-        return [sprites[i] for i in spec]
-    if spec in range(len(sprites)):
+            return get_tile_sprites(spriteset, spec[0]['sprite'])
+        return [spriteset[i] for i in spec]
+    if spec in range(len(spriteset)):
         if rotate:
-            return [transform.rotate(sprites[spec], angle) for angle in (0, 90, 180, 270)]
-        return [sprites[spec]]
+            return [transform.rotate(spriteset[spec], angle) for angle in (0, 90, 180, 270)]
+        return [spriteset[spec]]
 
-def compose_tile_sprites(sprites, tile_size, tile_info):
+def compose_tile_sprites(spriteset, tile_size, tile_info):
 
     result = []
 
@@ -52,7 +52,7 @@ def compose_tile_sprites(sprites, tile_size, tile_info):
         multitile_sprites = [{} for _ in connectivity_table]
         for key in ('bg', 'fg'):
             if key in tile_info:
-                sprite_list = get_tile_sprites(sprites, tile_info[key], key == 'fg')
+                sprite_list = get_tile_sprites(spriteset, tile_info[key], key == 'fg')
                 if sprite_list is not None:
                     for i, (_, orientation) in enumerate(connectivity_table):
                         multitile_sprites[i][key] = sprite_list[orientation % len(sprite_list)]
@@ -62,8 +62,9 @@ def compose_tile_sprites(sprites, tile_size, tile_info):
                     if add_tile_info['id'] == connectedness:
                         for key in ('bg', 'fg'):
                             if key in add_tile_info:
-                                sprite_list = get_tile_sprites(sprites, add_tile_info[key], key == 'fg')
-                                multitile_sprites[i][key] = sprite_list[orientation % len(sprite_list)]
+                                sprite_list = get_tile_sprites(spriteset, add_tile_info[key], key == 'fg')
+                                if sprite_list is not None:
+                                    multitile_sprites[i][key] = sprite_list[orientation % len(sprite_list)]
 
         for entry in multitile_sprites:
             sprite = Surface(tile_size, SRCALPHA)
@@ -79,7 +80,7 @@ def compose_tile_sprites(sprites, tile_size, tile_info):
         count = 0
         for key in ('bg', 'fg'):
             if key in tile_info:
-                sprite_list = get_tile_sprites(sprites, tile_info[key], rotates and key == 'fg')
+                sprite_list = get_tile_sprites(spriteset, tile_info[key], rotates and key == 'fg')
                 if sprite_list is not None:
                     tile_sprites[key] = sprite_list
                     count = max(count, len(sprite_list))
@@ -112,6 +113,7 @@ class Tileset:
             tileset_dir = path.dirname(tile_config_file)
 
             self.tiles = {}
+            spriteset = []
             for spritesheet_info in tile_config['tiles-new']:
 
                 filename = path.join(tileset_dir, spritesheet_info['file'])
@@ -119,20 +121,25 @@ class Tileset:
                 spritesheet = image.load(filename)
                 spritesheet_width = spritesheet.get_width()
                 spritesheet_height = spritesheet.get_height()
+                sprite_width = spritesheet_info.get('sprite_width', tile_width)
+                sprite_height = spritesheet_info.get('sprite_height', tile_height)
+                sprite_offset_x = spritesheet_info.get('sprite_offset_x', 0)
+                sprite_offset_y = spritesheet_info.get('sprite_offset_y', 0)
 
-                sprites = []
-                for y in range(0, spritesheet_height, tile_height):
-                    for x in range(0, spritesheet_width, tile_width):
-                        rect = Rect(x, y, tile_width, tile_height)
-                        sprites.append(spritesheet.subsurface(rect))
+                for y in range(0, spritesheet_height, sprite_height):
+                    for x in range(0, spritesheet_width, sprite_width):
+                        rect = Rect(x, y, sprite_width, sprite_height)
+                        spriteset.append(spritesheet.subsurface(rect))
 
                 for tile_info in spritesheet_info['tiles']:
-                    tile = {}
-                    tile['height_3d'] = tile_info.get('height_3d', 0)
-                    tile['sprites'] = compose_tile_sprites(sprites, (tile_width, tile_height), tile_info)
+                    tile = {
+                        'offset_x': sprite_offset_x,
+                        'offset_y': sprite_offset_y,
+                        'sprites': compose_tile_sprites(spriteset, (sprite_width, sprite_height), tile_info),
+                    }
+                    if self.iso:
+                        tile['height_3d'] = tile_info.get('height_3d', 0)
 
                     ids = tile_info['id'] if type(tile_info['id']) is list else [tile_info['id']]
                     for id in ids:
                         self.tiles[id] = tile
-
-                break  # TODO: Handle spritesheets beyond the first (Seem to be more complex, e.g., larger sprites)
