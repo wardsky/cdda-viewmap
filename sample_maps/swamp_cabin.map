@@ -1,1 +1,3781 @@
-[{"version":29,"coordinates":[336,648,0],"turn_last_touched":23616150,"temperature":0,"terrain":["t_grass","t_swater_dp","t_tree","t_dirt","t_grass","t_dirt","t_tree",["t_grass",3],"t_swater_sh",["t_dirt",2],"t_grass","t_tree","t_grass","t_dirt",["t_grass",3],"t_swater_sh","t_tree_young","t_grass","t_swater_sh","t_grass",["t_dirt",2],["t_grass",3],"t_dirt","t_swater_sh","t_grass","t_dirt",["t_grass",5],"t_dirt",["t_tree_young",2],"t_grass","t_swater_sh","t_tree","t_grass","t_water_sh",["t_grass",2],"t_water_sh","t_grass","t_swater_sh","t_dirt","t_swater_dp","t_dirt","t_grass","t_swater_dp","t_dirt","t_swater_sh","t_dirt","t_swater_sh","t_swater_dp",["t_grass",2],"t_dirt",["t_grass",3],"t_tree_young","t_swater_dp","t_swater_sh","t_grass","t_underbrush",["t_grass",2],["t_dirt",2],"t_grass","t_underbrush",["t_dirt",5],["t_grass",2],"t_swater_dp","t_grass","t_dirt","t_swater_sh","t_swater_dp",["t_dirt",5],"t_swater_sh",["t_grass",4],"t_tree_young","t_swater_sh",["t_dirt",5],"t_grass","t_tree","t_dirt","t_grass",["t_dirt",6],"t_grass",["t_dirt",3],["t_grass",2],"t_dirt","t_swater_sh",["t_wall_wood",3],"t_door_c",["t_wall_wood",2],"t_grass","t_dirt","t_grass","t_dirt",["t_grass",2],"t_wall_wood",["t_floor",4],"t_wall_wood"],"radiation":[0,144],"furniture":[[10,3,"f_cattails"],[1,4,"f_cattails"],[7,6,"f_sandbag_wall"],[8,6,"f_sandbag_wall"],[9,6,"f_sandbag_wall"],[10,6,"f_sandbag_wall"],[11,6,"f_sandbag_wall"],[7,7,"f_sandbag_wall"],[8,7,"f_crate_c"],[9,7,"f_crate_c"],[10,7,"f_crate_o"],[11,7,"f_crate_o"],[7,8,"f_sandbag_wall"],[8,8,"f_crate_c"],[11,9,"f_bulletin"],[7,11,"f_counter"],[8,11,"f_counter"],[10,11,"f_counter"]],"items":[8,7,[{"typeid":"heavy_flashlight","item_vars":{"magazine_converted":"1"},"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"box_medium","last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"cable","charges":200,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}}],11,7,[{"typeid":"water_faucet","last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}}],8,8,[{"typeid":"wire","last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}}]],"traps":[],"fields":[],"cosmetics":[],"spawns":[],"vehicles":[],"partial_constructions":[]},{"version":29,"coordinates":[336,649,0],"turn_last_touched":23616150,"temperature":0,"terrain":["t_dirt",["t_swater_dp",2],"t_grass","t_tree","t_dirt","t_wall_wood",["t_floor",4],"t_wall_wood","t_dirt","t_swater_sh","t_dirt","t_grass","t_swater_sh","t_grass","t_wall_wood",["t_floor",4],"t_wall_wood","t_swater_sh","t_dirt","t_grass","t_dirt",["t_tree_young",2],"t_wall_wood","t_dirt","t_door_o",["t_wall_wood",2],"t_wall_wood_broken","t_swater_sh",["t_grass",2],"t_tree","t_grass","t_underbrush","t_wall_wood_chipped","t_floor",["t_dirt",2],["t_floor",2],"t_dirt","t_swater_dp","t_dirt","t_underbrush","t_grass","t_swater_dp","t_wall_wood",["t_dirt",5],["t_swater_sh",2],"t_tree",["t_dirt",2],["t_grass",2],"t_swater_sh","t_grass",["t_dirt",2],["t_grass",2],"t_underbrush","t_grass","t_underbrush",["t_grass",3],"t_swater_sh","t_grass","t_dirt","t_underbrush","t_tree","t_grass",["t_swater_sh",2],"t_swater_dp","t_grass","t_dirt",["t_grass",2],"t_dirt","t_swater_dp","t_tree_young","t_underbrush","t_grass","t_tree","t_grass","t_swater_sh",["t_swater_dp",2],["t_dirt",2],"t_swater_sh","t_grass","t_swater_sh","t_grass","t_dirt","t_grass","t_dirt",["t_grass",3],"t_dirt","t_grass","t_tree","t_grass",["t_dirt",2],["t_swater_sh",2],["t_grass",2],"t_underbrush","t_dirt",["t_grass",4],["t_dirt",2],"t_grass",["t_swater_sh",2],"t_grass","t_tree_young","t_swater_sh",["t_grass",2],"t_underbrush",["t_grass",2],"t_dirt"],"radiation":[0,144],"furniture":[[7,0,"f_rack"],[10,0,"f_smoking_rack"],[7,1,"f_rack"],[10,1,"f_smoking_rack"],[7,3,"f_rubble"],[8,3,"f_rubble"],[9,3,"f_rubble"]],"items":[7,0,[{"typeid":"bone","charges":1,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}}],7,2,[{"typeid":"2x4","bday":23616205,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"2x4","bday":23616205,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"2x4","bday":23616205,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"nail","charges":9,"bday":23616205,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"splinter","bday":23616205,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"splinter","bday":23616205,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"splinter","bday":23616205,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"splinter","bday":23616205,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"splinter","bday":23616205,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}}],8,2,[{"typeid":"2x4","bday":23616204,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"2x4","bday":23616204,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"2x4","bday":23616204,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"wood_panel","bday":23616204,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"wood_panel","bday":23616204,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"nail","charges":4,"bday":23616204,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"splinter","bday":23616204,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"2x4","bday":23616204,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"splinter","bday":23616204,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}}],7,3,[{"typeid":"scrap","charges":4,"bday":23616171,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"steel_chunk","charges":4,"bday":23616171,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"sheet_metal_small","charges":6,"bday":23616171,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"pipe","bday":23616171,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}}],8,3,[{"typeid":"splinter","bday":23616181,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"splinter","bday":23616181,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"splinter","bday":23616181,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"splinter","bday":23616181,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"splinter","bday":23616181,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"nail","charges":10,"bday":23616181,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}}],9,3,[{"typeid":"splinter","bday":23616181,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"splinter","bday":23616181,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"splinter","bday":23616181,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"splinter","bday":23616181,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"nail","charges":8,"bday":23616181,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}}],7,4,[{"typeid":"2x4","bday":23616181,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"2x4","bday":23616181,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"2x4","bday":23616181,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"2x4","bday":23616181,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"wood_panel","bday":23616181,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"wood_panel","bday":23616181,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"nail","charges":11,"bday":23616181,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"splinter","bday":23616181,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"splinter","bday":23616181,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"splinter","bday":23616181,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"splinter","bday":23616181,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"2x4","bday":23616194,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"2x4","bday":23616194,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"2x4","bday":23616194,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"wood_panel","bday":23616194,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"wood_panel","bday":23616194,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"splinter","bday":23616194,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"splinter","bday":23616194,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}}],8,4,[{"typeid":"2x4","bday":23616171,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"2x4","bday":23616171,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"2x4","bday":23616171,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"2x4","bday":23616171,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"wood_panel","bday":23616171,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"wood_panel","bday":23616171,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"nail","charges":9,"bday":23616171,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"splinter","bday":23616171,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"splinter","bday":23616171,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"2x4","bday":23616175,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"2x4","bday":23616175,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"2x4","bday":23616175,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"splinter","bday":23616175,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"splinter","bday":23616175,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"splinter","bday":23616175,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"splinter","bday":23616175,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"2x4","bday":23616180,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"2x4","bday":23616180,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"wood_panel","bday":23616180,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"wood_panel","bday":23616180,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"splinter","bday":23616180,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"splinter","bday":23616180,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"splinter","bday":23616180,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"splinter","bday":23616180,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}}],9,4,[{"typeid":"2x4","bday":23616167,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"2x4","bday":23616167,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"nail","charges":14,"bday":23616167,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"splinter","bday":23616167,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"2x4","bday":23616168,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"2x4","bday":23616168,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"2x4","bday":23616168,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"wood_panel","bday":23616168,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"splinter","bday":23616168,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"splinter","bday":23616168,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"splinter","bday":23616168,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"2x4","bday":23616171,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"wood_panel","bday":23616171,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"wood_panel","bday":23616171,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"splinter","bday":23616171,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"splinter","bday":23616171,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"splinter","bday":23616171,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}}],10,4,[{"typeid":"2x4","bday":23616150,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"2x4","bday":23616150,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"2x4","bday":23616150,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"wood_panel","bday":23616150,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"wood_panel","bday":23616150,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"nail","charges":11,"bday":23616150,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"splinter","bday":23616150,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"wood_panel","bday":23616157,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"wood_panel","bday":23616157,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"splinter","bday":23616157,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"splinter","bday":23616157,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"2x4","bday":23616164,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"2x4","bday":23616164,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"splinter","bday":23616164,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}}],11,4,[{"typeid":"2x4","bday":23616138,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"2x4","bday":23616138,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"wood_panel","bday":23616138,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"wood_panel","bday":23616138,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"nail","charges":16,"bday":23616138,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"splinter","bday":23616138,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"splinter","bday":23616138,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"splinter","bday":23616138,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"2x4","bday":23616145,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"2x4","bday":23616145,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"wood_panel","bday":23616145,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"splinter","bday":23616145,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"splinter","bday":23616145,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"2x4","bday":23616147,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"splinter","bday":23616147,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}}],9,5,[{"typeid":"stick_long","bday":23616161,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"stick_long","bday":23616161,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"stick_long","bday":23616161,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"stick_long","bday":23616161,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"stick_long","bday":23616161,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}}],11,5,[{"typeid":"2x4","bday":23616136,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"2x4","bday":23616136,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"nail","charges":6,"bday":23616136,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"splinter","bday":23616136,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"splinter","bday":23616136,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"splinter","bday":23616136,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"2x4","bday":23616138,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"2x4","bday":23616138,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"2x4","bday":23616138,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"2x4","bday":23616138,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"wood_panel","bday":23616138,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"wood_panel","bday":23616138,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"splinter","bday":23616138,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"splinter","bday":23616138,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"splinter","bday":23616138,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"splinter","bday":23616138,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}}]],"traps":[],"fields":[],"cosmetics":[],"spawns":[],"vehicles":[],"partial_constructions":[]},{"version":29,"coordinates":[337,648,0],"turn_last_touched":23616150,"temperature":0,"terrain":["t_dirt","t_tree",["t_grass",2],"t_swater_sh","t_dirt",["t_grass",3],["t_dirt",2],"t_underbrush",["t_grass",3],"t_swater_sh","t_tree_young","t_grass","t_underbrush","t_grass","t_dirt",["t_grass",2],["t_dirt",2],"t_swater_sh","t_dirt",["t_grass",2],"t_dirt","t_swater_sh","t_dirt","t_grass","t_swater_dp",["t_grass",3],"t_tree_young","t_swater_sh","t_underbrush","t_grass","t_tree_young","t_grass","t_dirt","t_underbrush","t_swater_sh","t_underbrush","t_water_sh","t_tree_young","t_dirt",["t_grass",4],"t_dirt","t_tree_young","t_underbrush","t_dirt","t_tree",["t_grass",2],"t_swater_dp","t_tree","t_water_sh","t_grass","t_underbrush","t_swater_sh","t_dirt","t_grass","t_underbrush","t_dirt","t_tree_young",["t_dirt",5],"t_underbrush","t_grass","t_swater_dp","t_underbrush",["t_dirt",2],"t_swater_sh",["t_dirt",5],["t_grass",3],"t_underbrush","t_grass","t_dirt","t_tree",["t_dirt",5],"t_grass","t_dirt","t_swater_sh","t_dirt","t_grass","t_swater_dp","t_grass","t_dirt","t_grass",["t_dirt",2],"t_underbrush","t_tree","t_tree_young","t_dirt","t_grass","t_swater_dp","t_underbrush","t_swater_sh","t_wall_wood","t_dirt",["t_wall_wood",3],["t_dirt",3],"t_tree",["t_grass",3],["t_floor",4],"t_wall_wood","t_dirt","t_tree","t_dirt","t_tree","t_dirt","t_grass","t_swater_sh"],"radiation":[0,144],"furniture":[[11,3,"f_cattails"],[3,5,"f_cattails"],[0,6,"f_sandbag_wall"],[1,6,"f_sandbag_wall"],[2,6,"f_sandbag_wall"],[3,6,"f_sandbag_wall"],[1,7,"f_kiln_empty"],[2,7,"f_kiln_empty"],[3,7,"f_sandbag_wall"],[2,9,"f_fvat_empty"],[3,9,"f_sandbag_wall"],[0,11,"f_chair"],[1,11,"f_table"],[2,11,"f_makeshift_bed"],[3,11,"f_makeshift_bed"]],"items":[0,7,[{"typeid":"stepladder","item_vars":{"magazine_converted":"1"},"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}}],0,9,[{"typeid":"net","charges":1,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}}],1,10,[{"typeid":"2x4","bday":23616079,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"2x4","bday":23616079,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"2x4","bday":23616079,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"nail","charges":5,"bday":23616079,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"splinter","bday":23616079,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"splinter","bday":23616079,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"splinter","bday":23616079,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"splinter","bday":23616079,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"splinter","bday":23616079,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"splinter","bday":23616079,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"splinter","bday":23616079,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}}],2,11,[{"typeid":"glass_shard","bday":23616078,"item_vars":{"magazine_converted":"1"},"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"glass_shard","bday":23616078,"item_vars":{"magazine_converted":"1"},"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"glass_shard","bday":23616078,"item_vars":{"magazine_converted":"1"},"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"glass_shard","bday":23616078,"item_vars":{"magazine_converted":"1"},"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"glass_shard","bday":23616078,"item_vars":{"magazine_converted":"1"},"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"glass_shard","bday":23616078,"item_vars":{"magazine_converted":"1"},"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"glass_shard","bday":23616078,"item_vars":{"magazine_converted":"1"},"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"glass_shard","bday":23616078,"item_vars":{"magazine_converted":"1"},"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"glass_shard","bday":23616078,"item_vars":{"magazine_converted":"1"},"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"glass_shard","bday":23616078,"item_vars":{"magazine_converted":"1"},"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"glass_shard","bday":23616078,"item_vars":{"magazine_converted":"1"},"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"glass_shard","bday":23616078,"item_vars":{"magazine_converted":"1"},"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"glass_shard","bday":23616078,"item_vars":{"magazine_converted":"1"},"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"glass_shard","bday":23616078,"item_vars":{"magazine_converted":"1"},"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"glass_shard","bday":23616078,"item_vars":{"magazine_converted":"1"},"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"glass_shard","bday":23616078,"item_vars":{"magazine_converted":"1"},"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"glass_shard","bday":23616078,"item_vars":{"magazine_converted":"1"},"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"glass_shard","bday":23616078,"item_vars":{"magazine_converted":"1"},"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"glass_shard","bday":23616078,"item_vars":{"magazine_converted":"1"},"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"glass_shard","bday":23616078,"item_vars":{"magazine_converted":"1"},"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"glass_shard","bday":23616078,"item_vars":{"magazine_converted":"1"},"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"glass_shard","bday":23616078,"item_vars":{"magazine_converted":"1"},"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"glass_shard","bday":23616078,"item_vars":{"magazine_converted":"1"},"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"glass_shard","bday":23616078,"item_vars":{"magazine_converted":"1"},"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"glass_shard","bday":23616078,"item_vars":{"magazine_converted":"1"},"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"glass_shard","bday":23616078,"item_vars":{"magazine_converted":"1"},"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"glass_shard","bday":23616078,"item_vars":{"magazine_converted":"1"},"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"glass_shard","bday":23616078,"item_vars":{"magazine_converted":"1"},"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"glass_shard","bday":23616078,"item_vars":{"magazine_converted":"1"},"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"sheet","bday":23616078,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"sheet","bday":23616078,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"stick","bday":23616078,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"string_36","bday":23616078,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"glass_shard","bday":23616079,"item_vars":{"magazine_converted":"1"},"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"glass_shard","bday":23616079,"item_vars":{"magazine_converted":"1"},"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"glass_shard","bday":23616079,"item_vars":{"magazine_converted":"1"},"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"glass_shard","bday":23616079,"item_vars":{"magazine_converted":"1"},"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"glass_shard","bday":23616079,"item_vars":{"magazine_converted":"1"},"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"glass_shard","bday":23616079,"item_vars":{"magazine_converted":"1"},"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"glass_shard","bday":23616079,"item_vars":{"magazine_converted":"1"},"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}}],3,11,[{"typeid":"blanket","last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}}]],"traps":[],"fields":[],"cosmetics":[],"spawns":[],"vehicles":[],"partial_constructions":[]},{"version":29,"coordinates":[337,649,0],"turn_last_touched":23616150,"temperature":0,"terrain":[["t_floor",4],"t_wall_wood","t_dirt","t_underbrush","t_tree_young",["t_grass",4],["t_floor",4],"t_wall_wood","t_grass","t_underbrush",["t_dirt",2],"t_grass","t_tree_young","t_grass",["t_floor",4],"t_wall_wood","t_dirt","t_swater_sh","t_grass","t_swater_sh","t_grass","t_dirt","t_grass",["t_floor",4],"t_wall_wood","t_swater_dp",["t_grass",2],"t_dirt","t_swater_sh","t_dirt","t_swater_sh","t_wall_wood_chipped",["t_wall_wood",2],"t_wall_wood_broken","t_dirt","t_grass","t_swater_dp","t_grass","t_dirt","t_tree_young",["t_grass",2],"t_tree_young",["t_grass",4],"t_swater_sh","t_underbrush","t_dirt",["t_grass",3],"t_dirt","t_grass","t_underbrush",["t_dirt",2],["t_tree_young",2],["t_grass",2],"t_dirt","t_grass","t_swater_sh","t_grass","t_dirt","t_swater_sh","t_swater_dp","t_dirt","t_swater_sh","t_dirt","t_grass","t_dirt","t_swater_dp","t_swater_sh","t_dirt","t_grass","t_dirt","t_grass",["t_dirt",2],["t_grass",3],"t_swater_dp",["t_grass",3],"t_tree",["t_grass",2],["t_tree_young",2],["t_grass",2],"t_tree","t_grass","t_swater_dp",["t_dirt",2],"t_grass","t_dirt","t_swater_sh","t_tree","t_swater_sh","t_swater_dp","t_dirt","t_swater_sh",["t_grass",2],"t_swater_sh","t_grass","t_dirt","t_grass","t_dirt","t_grass","t_swater_sh",["t_grass",2],"t_tree_young","t_swater_dp","t_underbrush","t_tree_young",["t_grass",2]],"radiation":[0,144],"furniture":[[3,0,"f_bookcase"],[0,1,"f_dresser"],[3,1,"f_bookcase"],[1,3,"f_counter"],[2,3,"f_woodstove"],[3,3,"f_cupboard"]],"items":[0,2,[{"typeid":"2x4","bday":23616126,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"2x4","bday":23616126,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"wood_panel","bday":23616126,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"nail","charges":5,"bday":23616126,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"splinter","bday":23616126,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"2x4","bday":23616131,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"wood_panel","bday":23616131,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"wood_panel","bday":23616131,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"splinter","bday":23616131,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}}],3,3,[{"typeid":"box_small","last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}}],4,4,[{"typeid":"2x4","bday":23616047,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"2x4","bday":23616047,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"wood_panel","bday":23616047,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"wood_panel","bday":23616047,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"nail","charges":12,"bday":23616047,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"splinter","bday":23616047,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"2x4","bday":23616049,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"splinter","bday":23616049,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"splinter","bday":23616049,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"splinter","bday":23616049,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"2x4","bday":23616050,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"2x4","bday":23616050,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"2x4","bday":23616050,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"wood_panel","bday":23616050,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"wood_panel","bday":23616050,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"splinter","bday":23616050,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"splinter","bday":23616050,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"splinter","bday":23616050,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}}],5,4,[{"typeid":"2x4","bday":23616046,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"2x4","bday":23616046,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"2x4","bday":23616046,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"nail","charges":2,"bday":23616046,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"splinter","bday":23616046,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"splinter","bday":23616046,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"splinter","bday":23616046,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"2x4","bday":23616047,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"2x4","bday":23616047,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"2x4","bday":23616047,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"wood_panel","bday":23616047,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"splinter","bday":23616047,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"splinter","bday":23616047,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"splinter","bday":23616047,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}}],1,5,[{"typeid":"2x4","bday":23616137,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"2x4","bday":23616137,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"2x4","bday":23616137,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"wood_panel","bday":23616137,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"nail","charges":3,"bday":23616137,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"splinter","bday":23616137,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"splinter","bday":23616137,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}},{"typeid":"splinter","bday":23616137,"last_rot_check":0,"last_temp_check":0,"relic_data":null,"contents":{"contents":[]}}]],"traps":[],"fields":[],"cosmetics":[],"spawns":[],"vehicles":[],"partial_constructions":[]}]
+[
+    {
+        "version": 29,
+        "coordinates": [
+            336,
+            648,
+            0
+        ],
+        "turn_last_touched": 23616150,
+        "temperature": 0,
+        "terrain": [
+            "t_grass",
+            "t_swater_dp",
+            "t_tree",
+            "t_dirt",
+            "t_grass",
+            "t_dirt",
+            "t_tree",
+            [
+                "t_grass",
+                3
+            ],
+            "t_swater_sh",
+            [
+                "t_dirt",
+                2
+            ],
+            "t_grass",
+            "t_tree",
+            "t_grass",
+            "t_dirt",
+            [
+                "t_grass",
+                3
+            ],
+            "t_swater_sh",
+            "t_tree_young",
+            "t_grass",
+            "t_swater_sh",
+            "t_grass",
+            [
+                "t_dirt",
+                2
+            ],
+            [
+                "t_grass",
+                3
+            ],
+            "t_dirt",
+            "t_swater_sh",
+            "t_grass",
+            "t_dirt",
+            [
+                "t_grass",
+                5
+            ],
+            "t_dirt",
+            [
+                "t_tree_young",
+                2
+            ],
+            "t_grass",
+            "t_swater_sh",
+            "t_tree",
+            "t_grass",
+            "t_water_sh",
+            [
+                "t_grass",
+                2
+            ],
+            "t_water_sh",
+            "t_grass",
+            "t_swater_sh",
+            "t_dirt",
+            "t_swater_dp",
+            "t_dirt",
+            "t_grass",
+            "t_swater_dp",
+            "t_dirt",
+            "t_swater_sh",
+            "t_dirt",
+            "t_swater_sh",
+            "t_swater_dp",
+            [
+                "t_grass",
+                2
+            ],
+            "t_dirt",
+            [
+                "t_grass",
+                3
+            ],
+            "t_tree_young",
+            "t_swater_dp",
+            "t_swater_sh",
+            "t_grass",
+            "t_underbrush",
+            [
+                "t_grass",
+                2
+            ],
+            [
+                "t_dirt",
+                2
+            ],
+            "t_grass",
+            "t_underbrush",
+            [
+                "t_dirt",
+                5
+            ],
+            [
+                "t_grass",
+                2
+            ],
+            "t_swater_dp",
+            "t_grass",
+            "t_dirt",
+            "t_swater_sh",
+            "t_swater_dp",
+            [
+                "t_dirt",
+                5
+            ],
+            "t_swater_sh",
+            [
+                "t_grass",
+                4
+            ],
+            "t_tree_young",
+            "t_swater_sh",
+            [
+                "t_dirt",
+                5
+            ],
+            "t_grass",
+            "t_tree",
+            "t_dirt",
+            "t_grass",
+            [
+                "t_dirt",
+                6
+            ],
+            "t_grass",
+            [
+                "t_dirt",
+                3
+            ],
+            [
+                "t_grass",
+                2
+            ],
+            "t_dirt",
+            "t_swater_sh",
+            [
+                "t_wall_wood",
+                3
+            ],
+            "t_door_c",
+            [
+                "t_wall_wood",
+                2
+            ],
+            "t_grass",
+            "t_dirt",
+            "t_grass",
+            "t_dirt",
+            [
+                "t_grass",
+                2
+            ],
+            "t_wall_wood",
+            [
+                "t_floor",
+                4
+            ],
+            "t_wall_wood"
+        ],
+        "radiation": [
+            0,
+            144
+        ],
+        "furniture": [
+            [
+                10,
+                3,
+                "f_cattails"
+            ],
+            [
+                1,
+                4,
+                "f_cattails"
+            ],
+            [
+                7,
+                6,
+                "f_sandbag_wall"
+            ],
+            [
+                8,
+                6,
+                "f_sandbag_wall"
+            ],
+            [
+                9,
+                6,
+                "f_sandbag_wall"
+            ],
+            [
+                10,
+                6,
+                "f_sandbag_wall"
+            ],
+            [
+                11,
+                6,
+                "f_sandbag_wall"
+            ],
+            [
+                7,
+                7,
+                "f_sandbag_wall"
+            ],
+            [
+                8,
+                7,
+                "f_crate_c"
+            ],
+            [
+                9,
+                7,
+                "f_crate_c"
+            ],
+            [
+                10,
+                7,
+                "f_crate_o"
+            ],
+            [
+                11,
+                7,
+                "f_crate_o"
+            ],
+            [
+                7,
+                8,
+                "f_sandbag_wall"
+            ],
+            [
+                8,
+                8,
+                "f_crate_c"
+            ],
+            [
+                11,
+                9,
+                "f_bulletin"
+            ],
+            [
+                7,
+                11,
+                "f_counter"
+            ],
+            [
+                8,
+                11,
+                "f_counter"
+            ],
+            [
+                10,
+                11,
+                "f_counter"
+            ]
+        ],
+        "items": [
+            8,
+            7,
+            [
+                {
+                    "typeid": "heavy_flashlight",
+                    "item_vars": {
+                        "magazine_converted": "1"
+                    },
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "box_medium",
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "cable",
+                    "charges": 200,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                }
+            ],
+            11,
+            7,
+            [
+                {
+                    "typeid": "water_faucet",
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                }
+            ],
+            8,
+            8,
+            [
+                {
+                    "typeid": "wire",
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                }
+            ]
+        ],
+        "traps": [],
+        "fields": [],
+        "cosmetics": [],
+        "spawns": [],
+        "vehicles": [],
+        "partial_constructions": []
+    },
+    {
+        "version": 29,
+        "coordinates": [
+            336,
+            649,
+            0
+        ],
+        "turn_last_touched": 23616150,
+        "temperature": 0,
+        "terrain": [
+            "t_dirt",
+            [
+                "t_swater_dp",
+                2
+            ],
+            "t_grass",
+            "t_tree",
+            "t_dirt",
+            "t_wall_wood",
+            [
+                "t_floor",
+                4
+            ],
+            "t_wall_wood",
+            "t_dirt",
+            "t_swater_sh",
+            "t_dirt",
+            "t_grass",
+            "t_swater_sh",
+            "t_grass",
+            "t_wall_wood",
+            [
+                "t_floor",
+                4
+            ],
+            "t_wall_wood",
+            "t_swater_sh",
+            "t_dirt",
+            "t_grass",
+            "t_dirt",
+            [
+                "t_tree_young",
+                2
+            ],
+            "t_wall_wood",
+            "t_dirt",
+            "t_door_o",
+            [
+                "t_wall_wood",
+                2
+            ],
+            "t_wall_wood_broken",
+            "t_swater_sh",
+            [
+                "t_grass",
+                2
+            ],
+            "t_tree",
+            "t_grass",
+            "t_underbrush",
+            "t_wall_wood_chipped",
+            "t_floor",
+            [
+                "t_dirt",
+                2
+            ],
+            [
+                "t_floor",
+                2
+            ],
+            "t_dirt",
+            "t_swater_dp",
+            "t_dirt",
+            "t_underbrush",
+            "t_grass",
+            "t_swater_dp",
+            "t_wall_wood",
+            [
+                "t_dirt",
+                5
+            ],
+            [
+                "t_swater_sh",
+                2
+            ],
+            "t_tree",
+            [
+                "t_dirt",
+                2
+            ],
+            [
+                "t_grass",
+                2
+            ],
+            "t_swater_sh",
+            "t_grass",
+            [
+                "t_dirt",
+                2
+            ],
+            [
+                "t_grass",
+                2
+            ],
+            "t_underbrush",
+            "t_grass",
+            "t_underbrush",
+            [
+                "t_grass",
+                3
+            ],
+            "t_swater_sh",
+            "t_grass",
+            "t_dirt",
+            "t_underbrush",
+            "t_tree",
+            "t_grass",
+            [
+                "t_swater_sh",
+                2
+            ],
+            "t_swater_dp",
+            "t_grass",
+            "t_dirt",
+            [
+                "t_grass",
+                2
+            ],
+            "t_dirt",
+            "t_swater_dp",
+            "t_tree_young",
+            "t_underbrush",
+            "t_grass",
+            "t_tree",
+            "t_grass",
+            "t_swater_sh",
+            [
+                "t_swater_dp",
+                2
+            ],
+            [
+                "t_dirt",
+                2
+            ],
+            "t_swater_sh",
+            "t_grass",
+            "t_swater_sh",
+            "t_grass",
+            "t_dirt",
+            "t_grass",
+            "t_dirt",
+            [
+                "t_grass",
+                3
+            ],
+            "t_dirt",
+            "t_grass",
+            "t_tree",
+            "t_grass",
+            [
+                "t_dirt",
+                2
+            ],
+            [
+                "t_swater_sh",
+                2
+            ],
+            [
+                "t_grass",
+                2
+            ],
+            "t_underbrush",
+            "t_dirt",
+            [
+                "t_grass",
+                4
+            ],
+            [
+                "t_dirt",
+                2
+            ],
+            "t_grass",
+            [
+                "t_swater_sh",
+                2
+            ],
+            "t_grass",
+            "t_tree_young",
+            "t_swater_sh",
+            [
+                "t_grass",
+                2
+            ],
+            "t_underbrush",
+            [
+                "t_grass",
+                2
+            ],
+            "t_dirt"
+        ],
+        "radiation": [
+            0,
+            144
+        ],
+        "furniture": [
+            [
+                7,
+                0,
+                "f_rack"
+            ],
+            [
+                10,
+                0,
+                "f_smoking_rack"
+            ],
+            [
+                7,
+                1,
+                "f_rack"
+            ],
+            [
+                10,
+                1,
+                "f_smoking_rack"
+            ],
+            [
+                7,
+                3,
+                "f_rubble"
+            ],
+            [
+                8,
+                3,
+                "f_rubble"
+            ],
+            [
+                9,
+                3,
+                "f_rubble"
+            ]
+        ],
+        "items": [
+            7,
+            0,
+            [
+                {
+                    "typeid": "bone",
+                    "charges": 1,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                }
+            ],
+            7,
+            2,
+            [
+                {
+                    "typeid": "2x4",
+                    "bday": 23616205,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "2x4",
+                    "bday": 23616205,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "2x4",
+                    "bday": 23616205,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "nail",
+                    "charges": 9,
+                    "bday": 23616205,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "splinter",
+                    "bday": 23616205,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "splinter",
+                    "bday": 23616205,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "splinter",
+                    "bday": 23616205,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "splinter",
+                    "bday": 23616205,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "splinter",
+                    "bday": 23616205,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                }
+            ],
+            8,
+            2,
+            [
+                {
+                    "typeid": "2x4",
+                    "bday": 23616204,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "2x4",
+                    "bday": 23616204,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "2x4",
+                    "bday": 23616204,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "wood_panel",
+                    "bday": 23616204,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "wood_panel",
+                    "bday": 23616204,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "nail",
+                    "charges": 4,
+                    "bday": 23616204,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "splinter",
+                    "bday": 23616204,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "2x4",
+                    "bday": 23616204,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "splinter",
+                    "bday": 23616204,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                }
+            ],
+            7,
+            3,
+            [
+                {
+                    "typeid": "scrap",
+                    "charges": 4,
+                    "bday": 23616171,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "steel_chunk",
+                    "charges": 4,
+                    "bday": 23616171,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "sheet_metal_small",
+                    "charges": 6,
+                    "bday": 23616171,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "pipe",
+                    "bday": 23616171,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                }
+            ],
+            8,
+            3,
+            [
+                {
+                    "typeid": "splinter",
+                    "bday": 23616181,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "splinter",
+                    "bday": 23616181,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "splinter",
+                    "bday": 23616181,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "splinter",
+                    "bday": 23616181,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "splinter",
+                    "bday": 23616181,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "nail",
+                    "charges": 10,
+                    "bday": 23616181,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                }
+            ],
+            9,
+            3,
+            [
+                {
+                    "typeid": "splinter",
+                    "bday": 23616181,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "splinter",
+                    "bday": 23616181,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "splinter",
+                    "bday": 23616181,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "splinter",
+                    "bday": 23616181,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "nail",
+                    "charges": 8,
+                    "bday": 23616181,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                }
+            ],
+            7,
+            4,
+            [
+                {
+                    "typeid": "2x4",
+                    "bday": 23616181,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "2x4",
+                    "bday": 23616181,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "2x4",
+                    "bday": 23616181,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "2x4",
+                    "bday": 23616181,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "wood_panel",
+                    "bday": 23616181,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "wood_panel",
+                    "bday": 23616181,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "nail",
+                    "charges": 11,
+                    "bday": 23616181,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "splinter",
+                    "bday": 23616181,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "splinter",
+                    "bday": 23616181,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "splinter",
+                    "bday": 23616181,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "splinter",
+                    "bday": 23616181,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "2x4",
+                    "bday": 23616194,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "2x4",
+                    "bday": 23616194,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "2x4",
+                    "bday": 23616194,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "wood_panel",
+                    "bday": 23616194,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "wood_panel",
+                    "bday": 23616194,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "splinter",
+                    "bday": 23616194,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "splinter",
+                    "bday": 23616194,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                }
+            ],
+            8,
+            4,
+            [
+                {
+                    "typeid": "2x4",
+                    "bday": 23616171,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "2x4",
+                    "bday": 23616171,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "2x4",
+                    "bday": 23616171,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "2x4",
+                    "bday": 23616171,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "wood_panel",
+                    "bday": 23616171,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "wood_panel",
+                    "bday": 23616171,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "nail",
+                    "charges": 9,
+                    "bday": 23616171,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "splinter",
+                    "bday": 23616171,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "splinter",
+                    "bday": 23616171,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "2x4",
+                    "bday": 23616175,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "2x4",
+                    "bday": 23616175,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "2x4",
+                    "bday": 23616175,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "splinter",
+                    "bday": 23616175,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "splinter",
+                    "bday": 23616175,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "splinter",
+                    "bday": 23616175,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "splinter",
+                    "bday": 23616175,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "2x4",
+                    "bday": 23616180,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "2x4",
+                    "bday": 23616180,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "wood_panel",
+                    "bday": 23616180,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "wood_panel",
+                    "bday": 23616180,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "splinter",
+                    "bday": 23616180,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "splinter",
+                    "bday": 23616180,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "splinter",
+                    "bday": 23616180,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "splinter",
+                    "bday": 23616180,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                }
+            ],
+            9,
+            4,
+            [
+                {
+                    "typeid": "2x4",
+                    "bday": 23616167,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "2x4",
+                    "bday": 23616167,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "nail",
+                    "charges": 14,
+                    "bday": 23616167,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "splinter",
+                    "bday": 23616167,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "2x4",
+                    "bday": 23616168,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "2x4",
+                    "bday": 23616168,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "2x4",
+                    "bday": 23616168,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "wood_panel",
+                    "bday": 23616168,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "splinter",
+                    "bday": 23616168,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "splinter",
+                    "bday": 23616168,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "splinter",
+                    "bday": 23616168,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "2x4",
+                    "bday": 23616171,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "wood_panel",
+                    "bday": 23616171,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "wood_panel",
+                    "bday": 23616171,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "splinter",
+                    "bday": 23616171,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "splinter",
+                    "bday": 23616171,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "splinter",
+                    "bday": 23616171,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                }
+            ],
+            10,
+            4,
+            [
+                {
+                    "typeid": "2x4",
+                    "bday": 23616150,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "2x4",
+                    "bday": 23616150,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "2x4",
+                    "bday": 23616150,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "wood_panel",
+                    "bday": 23616150,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "wood_panel",
+                    "bday": 23616150,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "nail",
+                    "charges": 11,
+                    "bday": 23616150,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "splinter",
+                    "bday": 23616150,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "wood_panel",
+                    "bday": 23616157,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "wood_panel",
+                    "bday": 23616157,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "splinter",
+                    "bday": 23616157,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "splinter",
+                    "bday": 23616157,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "2x4",
+                    "bday": 23616164,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "2x4",
+                    "bday": 23616164,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "splinter",
+                    "bday": 23616164,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                }
+            ],
+            11,
+            4,
+            [
+                {
+                    "typeid": "2x4",
+                    "bday": 23616138,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "2x4",
+                    "bday": 23616138,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "wood_panel",
+                    "bday": 23616138,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "wood_panel",
+                    "bday": 23616138,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "nail",
+                    "charges": 16,
+                    "bday": 23616138,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "splinter",
+                    "bday": 23616138,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "splinter",
+                    "bday": 23616138,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "splinter",
+                    "bday": 23616138,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "2x4",
+                    "bday": 23616145,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "2x4",
+                    "bday": 23616145,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "wood_panel",
+                    "bday": 23616145,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "splinter",
+                    "bday": 23616145,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "splinter",
+                    "bday": 23616145,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "2x4",
+                    "bday": 23616147,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "splinter",
+                    "bday": 23616147,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                }
+            ],
+            9,
+            5,
+            [
+                {
+                    "typeid": "stick_long",
+                    "bday": 23616161,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "stick_long",
+                    "bday": 23616161,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "stick_long",
+                    "bday": 23616161,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "stick_long",
+                    "bday": 23616161,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "stick_long",
+                    "bday": 23616161,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                }
+            ],
+            11,
+            5,
+            [
+                {
+                    "typeid": "2x4",
+                    "bday": 23616136,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "2x4",
+                    "bday": 23616136,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "nail",
+                    "charges": 6,
+                    "bday": 23616136,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "splinter",
+                    "bday": 23616136,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "splinter",
+                    "bday": 23616136,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "splinter",
+                    "bday": 23616136,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "2x4",
+                    "bday": 23616138,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "2x4",
+                    "bday": 23616138,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "2x4",
+                    "bday": 23616138,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "2x4",
+                    "bday": 23616138,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "wood_panel",
+                    "bday": 23616138,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "wood_panel",
+                    "bday": 23616138,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "splinter",
+                    "bday": 23616138,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "splinter",
+                    "bday": 23616138,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "splinter",
+                    "bday": 23616138,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "splinter",
+                    "bday": 23616138,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                }
+            ]
+        ],
+        "traps": [],
+        "fields": [],
+        "cosmetics": [],
+        "spawns": [],
+        "vehicles": [],
+        "partial_constructions": []
+    },
+    {
+        "version": 29,
+        "coordinates": [
+            337,
+            648,
+            0
+        ],
+        "turn_last_touched": 23616150,
+        "temperature": 0,
+        "terrain": [
+            "t_dirt",
+            "t_tree",
+            [
+                "t_grass",
+                2
+            ],
+            "t_swater_sh",
+            "t_dirt",
+            [
+                "t_grass",
+                3
+            ],
+            [
+                "t_dirt",
+                2
+            ],
+            "t_underbrush",
+            [
+                "t_grass",
+                3
+            ],
+            "t_swater_sh",
+            "t_tree_young",
+            "t_grass",
+            "t_underbrush",
+            "t_grass",
+            "t_dirt",
+            [
+                "t_grass",
+                2
+            ],
+            [
+                "t_dirt",
+                2
+            ],
+            "t_swater_sh",
+            "t_dirt",
+            [
+                "t_grass",
+                2
+            ],
+            "t_dirt",
+            "t_swater_sh",
+            "t_dirt",
+            "t_grass",
+            "t_swater_dp",
+            [
+                "t_grass",
+                3
+            ],
+            "t_tree_young",
+            "t_swater_sh",
+            "t_underbrush",
+            "t_grass",
+            "t_tree_young",
+            "t_grass",
+            "t_dirt",
+            "t_underbrush",
+            "t_swater_sh",
+            "t_underbrush",
+            "t_water_sh",
+            "t_tree_young",
+            "t_dirt",
+            [
+                "t_grass",
+                4
+            ],
+            "t_dirt",
+            "t_tree_young",
+            "t_underbrush",
+            "t_dirt",
+            "t_tree",
+            [
+                "t_grass",
+                2
+            ],
+            "t_swater_dp",
+            "t_tree",
+            "t_water_sh",
+            "t_grass",
+            "t_underbrush",
+            "t_swater_sh",
+            "t_dirt",
+            "t_grass",
+            "t_underbrush",
+            "t_dirt",
+            "t_tree_young",
+            [
+                "t_dirt",
+                5
+            ],
+            "t_underbrush",
+            "t_grass",
+            "t_swater_dp",
+            "t_underbrush",
+            [
+                "t_dirt",
+                2
+            ],
+            "t_swater_sh",
+            [
+                "t_dirt",
+                5
+            ],
+            [
+                "t_grass",
+                3
+            ],
+            "t_underbrush",
+            "t_grass",
+            "t_dirt",
+            "t_tree",
+            [
+                "t_dirt",
+                5
+            ],
+            "t_grass",
+            "t_dirt",
+            "t_swater_sh",
+            "t_dirt",
+            "t_grass",
+            "t_swater_dp",
+            "t_grass",
+            "t_dirt",
+            "t_grass",
+            [
+                "t_dirt",
+                2
+            ],
+            "t_underbrush",
+            "t_tree",
+            "t_tree_young",
+            "t_dirt",
+            "t_grass",
+            "t_swater_dp",
+            "t_underbrush",
+            "t_swater_sh",
+            "t_wall_wood",
+            "t_dirt",
+            [
+                "t_wall_wood",
+                3
+            ],
+            [
+                "t_dirt",
+                3
+            ],
+            "t_tree",
+            [
+                "t_grass",
+                3
+            ],
+            [
+                "t_floor",
+                4
+            ],
+            "t_wall_wood",
+            "t_dirt",
+            "t_tree",
+            "t_dirt",
+            "t_tree",
+            "t_dirt",
+            "t_grass",
+            "t_swater_sh"
+        ],
+        "radiation": [
+            0,
+            144
+        ],
+        "furniture": [
+            [
+                11,
+                3,
+                "f_cattails"
+            ],
+            [
+                3,
+                5,
+                "f_cattails"
+            ],
+            [
+                0,
+                6,
+                "f_sandbag_wall"
+            ],
+            [
+                1,
+                6,
+                "f_sandbag_wall"
+            ],
+            [
+                2,
+                6,
+                "f_sandbag_wall"
+            ],
+            [
+                3,
+                6,
+                "f_sandbag_wall"
+            ],
+            [
+                1,
+                7,
+                "f_kiln_empty"
+            ],
+            [
+                2,
+                7,
+                "f_kiln_empty"
+            ],
+            [
+                3,
+                7,
+                "f_sandbag_wall"
+            ],
+            [
+                2,
+                9,
+                "f_fvat_empty"
+            ],
+            [
+                3,
+                9,
+                "f_sandbag_wall"
+            ],
+            [
+                0,
+                11,
+                "f_chair"
+            ],
+            [
+                1,
+                11,
+                "f_table"
+            ],
+            [
+                2,
+                11,
+                "f_makeshift_bed"
+            ],
+            [
+                3,
+                11,
+                "f_makeshift_bed"
+            ]
+        ],
+        "items": [
+            0,
+            7,
+            [
+                {
+                    "typeid": "stepladder",
+                    "item_vars": {
+                        "magazine_converted": "1"
+                    },
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                }
+            ],
+            0,
+            9,
+            [
+                {
+                    "typeid": "net",
+                    "charges": 1,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                }
+            ],
+            1,
+            10,
+            [
+                {
+                    "typeid": "2x4",
+                    "bday": 23616079,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "2x4",
+                    "bday": 23616079,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "2x4",
+                    "bday": 23616079,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "nail",
+                    "charges": 5,
+                    "bday": 23616079,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "splinter",
+                    "bday": 23616079,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "splinter",
+                    "bday": 23616079,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "splinter",
+                    "bday": 23616079,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "splinter",
+                    "bday": 23616079,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "splinter",
+                    "bday": 23616079,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "splinter",
+                    "bday": 23616079,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "splinter",
+                    "bday": 23616079,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                }
+            ],
+            2,
+            11,
+            [
+                {
+                    "typeid": "glass_shard",
+                    "bday": 23616078,
+                    "item_vars": {
+                        "magazine_converted": "1"
+                    },
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "glass_shard",
+                    "bday": 23616078,
+                    "item_vars": {
+                        "magazine_converted": "1"
+                    },
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "glass_shard",
+                    "bday": 23616078,
+                    "item_vars": {
+                        "magazine_converted": "1"
+                    },
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "glass_shard",
+                    "bday": 23616078,
+                    "item_vars": {
+                        "magazine_converted": "1"
+                    },
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "glass_shard",
+                    "bday": 23616078,
+                    "item_vars": {
+                        "magazine_converted": "1"
+                    },
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "glass_shard",
+                    "bday": 23616078,
+                    "item_vars": {
+                        "magazine_converted": "1"
+                    },
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "glass_shard",
+                    "bday": 23616078,
+                    "item_vars": {
+                        "magazine_converted": "1"
+                    },
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "glass_shard",
+                    "bday": 23616078,
+                    "item_vars": {
+                        "magazine_converted": "1"
+                    },
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "glass_shard",
+                    "bday": 23616078,
+                    "item_vars": {
+                        "magazine_converted": "1"
+                    },
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "glass_shard",
+                    "bday": 23616078,
+                    "item_vars": {
+                        "magazine_converted": "1"
+                    },
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "glass_shard",
+                    "bday": 23616078,
+                    "item_vars": {
+                        "magazine_converted": "1"
+                    },
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "glass_shard",
+                    "bday": 23616078,
+                    "item_vars": {
+                        "magazine_converted": "1"
+                    },
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "glass_shard",
+                    "bday": 23616078,
+                    "item_vars": {
+                        "magazine_converted": "1"
+                    },
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "glass_shard",
+                    "bday": 23616078,
+                    "item_vars": {
+                        "magazine_converted": "1"
+                    },
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "glass_shard",
+                    "bday": 23616078,
+                    "item_vars": {
+                        "magazine_converted": "1"
+                    },
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "glass_shard",
+                    "bday": 23616078,
+                    "item_vars": {
+                        "magazine_converted": "1"
+                    },
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "glass_shard",
+                    "bday": 23616078,
+                    "item_vars": {
+                        "magazine_converted": "1"
+                    },
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "glass_shard",
+                    "bday": 23616078,
+                    "item_vars": {
+                        "magazine_converted": "1"
+                    },
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "glass_shard",
+                    "bday": 23616078,
+                    "item_vars": {
+                        "magazine_converted": "1"
+                    },
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "glass_shard",
+                    "bday": 23616078,
+                    "item_vars": {
+                        "magazine_converted": "1"
+                    },
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "glass_shard",
+                    "bday": 23616078,
+                    "item_vars": {
+                        "magazine_converted": "1"
+                    },
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "glass_shard",
+                    "bday": 23616078,
+                    "item_vars": {
+                        "magazine_converted": "1"
+                    },
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "glass_shard",
+                    "bday": 23616078,
+                    "item_vars": {
+                        "magazine_converted": "1"
+                    },
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "glass_shard",
+                    "bday": 23616078,
+                    "item_vars": {
+                        "magazine_converted": "1"
+                    },
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "glass_shard",
+                    "bday": 23616078,
+                    "item_vars": {
+                        "magazine_converted": "1"
+                    },
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "glass_shard",
+                    "bday": 23616078,
+                    "item_vars": {
+                        "magazine_converted": "1"
+                    },
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "glass_shard",
+                    "bday": 23616078,
+                    "item_vars": {
+                        "magazine_converted": "1"
+                    },
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "glass_shard",
+                    "bday": 23616078,
+                    "item_vars": {
+                        "magazine_converted": "1"
+                    },
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "glass_shard",
+                    "bday": 23616078,
+                    "item_vars": {
+                        "magazine_converted": "1"
+                    },
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "sheet",
+                    "bday": 23616078,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "sheet",
+                    "bday": 23616078,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "stick",
+                    "bday": 23616078,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "string_36",
+                    "bday": 23616078,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "glass_shard",
+                    "bday": 23616079,
+                    "item_vars": {
+                        "magazine_converted": "1"
+                    },
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "glass_shard",
+                    "bday": 23616079,
+                    "item_vars": {
+                        "magazine_converted": "1"
+                    },
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "glass_shard",
+                    "bday": 23616079,
+                    "item_vars": {
+                        "magazine_converted": "1"
+                    },
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "glass_shard",
+                    "bday": 23616079,
+                    "item_vars": {
+                        "magazine_converted": "1"
+                    },
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "glass_shard",
+                    "bday": 23616079,
+                    "item_vars": {
+                        "magazine_converted": "1"
+                    },
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "glass_shard",
+                    "bday": 23616079,
+                    "item_vars": {
+                        "magazine_converted": "1"
+                    },
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "glass_shard",
+                    "bday": 23616079,
+                    "item_vars": {
+                        "magazine_converted": "1"
+                    },
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                }
+            ],
+            3,
+            11,
+            [
+                {
+                    "typeid": "blanket",
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                }
+            ]
+        ],
+        "traps": [],
+        "fields": [],
+        "cosmetics": [],
+        "spawns": [],
+        "vehicles": [],
+        "partial_constructions": []
+    },
+    {
+        "version": 29,
+        "coordinates": [
+            337,
+            649,
+            0
+        ],
+        "turn_last_touched": 23616150,
+        "temperature": 0,
+        "terrain": [
+            [
+                "t_floor",
+                4
+            ],
+            "t_wall_wood",
+            "t_dirt",
+            "t_underbrush",
+            "t_tree_young",
+            [
+                "t_grass",
+                4
+            ],
+            [
+                "t_floor",
+                4
+            ],
+            "t_wall_wood",
+            "t_grass",
+            "t_underbrush",
+            [
+                "t_dirt",
+                2
+            ],
+            "t_grass",
+            "t_tree_young",
+            "t_grass",
+            [
+                "t_floor",
+                4
+            ],
+            "t_wall_wood",
+            "t_dirt",
+            "t_swater_sh",
+            "t_grass",
+            "t_swater_sh",
+            "t_grass",
+            "t_dirt",
+            "t_grass",
+            [
+                "t_floor",
+                4
+            ],
+            "t_wall_wood",
+            "t_swater_dp",
+            [
+                "t_grass",
+                2
+            ],
+            "t_dirt",
+            "t_swater_sh",
+            "t_dirt",
+            "t_swater_sh",
+            "t_wall_wood_chipped",
+            [
+                "t_wall_wood",
+                2
+            ],
+            "t_wall_wood_broken",
+            "t_dirt",
+            "t_grass",
+            "t_swater_dp",
+            "t_grass",
+            "t_dirt",
+            "t_tree_young",
+            [
+                "t_grass",
+                2
+            ],
+            "t_tree_young",
+            [
+                "t_grass",
+                4
+            ],
+            "t_swater_sh",
+            "t_underbrush",
+            "t_dirt",
+            [
+                "t_grass",
+                3
+            ],
+            "t_dirt",
+            "t_grass",
+            "t_underbrush",
+            [
+                "t_dirt",
+                2
+            ],
+            [
+                "t_tree_young",
+                2
+            ],
+            [
+                "t_grass",
+                2
+            ],
+            "t_dirt",
+            "t_grass",
+            "t_swater_sh",
+            "t_grass",
+            "t_dirt",
+            "t_swater_sh",
+            "t_swater_dp",
+            "t_dirt",
+            "t_swater_sh",
+            "t_dirt",
+            "t_grass",
+            "t_dirt",
+            "t_swater_dp",
+            "t_swater_sh",
+            "t_dirt",
+            "t_grass",
+            "t_dirt",
+            "t_grass",
+            [
+                "t_dirt",
+                2
+            ],
+            [
+                "t_grass",
+                3
+            ],
+            "t_swater_dp",
+            [
+                "t_grass",
+                3
+            ],
+            "t_tree",
+            [
+                "t_grass",
+                2
+            ],
+            [
+                "t_tree_young",
+                2
+            ],
+            [
+                "t_grass",
+                2
+            ],
+            "t_tree",
+            "t_grass",
+            "t_swater_dp",
+            [
+                "t_dirt",
+                2
+            ],
+            "t_grass",
+            "t_dirt",
+            "t_swater_sh",
+            "t_tree",
+            "t_swater_sh",
+            "t_swater_dp",
+            "t_dirt",
+            "t_swater_sh",
+            [
+                "t_grass",
+                2
+            ],
+            "t_swater_sh",
+            "t_grass",
+            "t_dirt",
+            "t_grass",
+            "t_dirt",
+            "t_grass",
+            "t_swater_sh",
+            [
+                "t_grass",
+                2
+            ],
+            "t_tree_young",
+            "t_swater_dp",
+            "t_underbrush",
+            "t_tree_young",
+            [
+                "t_grass",
+                2
+            ]
+        ],
+        "radiation": [
+            0,
+            144
+        ],
+        "furniture": [
+            [
+                3,
+                0,
+                "f_bookcase"
+            ],
+            [
+                0,
+                1,
+                "f_dresser"
+            ],
+            [
+                3,
+                1,
+                "f_bookcase"
+            ],
+            [
+                1,
+                3,
+                "f_counter"
+            ],
+            [
+                2,
+                3,
+                "f_woodstove"
+            ],
+            [
+                3,
+                3,
+                "f_cupboard"
+            ]
+        ],
+        "items": [
+            0,
+            2,
+            [
+                {
+                    "typeid": "2x4",
+                    "bday": 23616126,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "2x4",
+                    "bday": 23616126,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "wood_panel",
+                    "bday": 23616126,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "nail",
+                    "charges": 5,
+                    "bday": 23616126,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "splinter",
+                    "bday": 23616126,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "2x4",
+                    "bday": 23616131,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "wood_panel",
+                    "bday": 23616131,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "wood_panel",
+                    "bday": 23616131,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "splinter",
+                    "bday": 23616131,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                }
+            ],
+            3,
+            3,
+            [
+                {
+                    "typeid": "box_small",
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                }
+            ],
+            4,
+            4,
+            [
+                {
+                    "typeid": "2x4",
+                    "bday": 23616047,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "2x4",
+                    "bday": 23616047,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "wood_panel",
+                    "bday": 23616047,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "wood_panel",
+                    "bday": 23616047,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "nail",
+                    "charges": 12,
+                    "bday": 23616047,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "splinter",
+                    "bday": 23616047,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "2x4",
+                    "bday": 23616049,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "splinter",
+                    "bday": 23616049,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "splinter",
+                    "bday": 23616049,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "splinter",
+                    "bday": 23616049,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "2x4",
+                    "bday": 23616050,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "2x4",
+                    "bday": 23616050,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "2x4",
+                    "bday": 23616050,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "wood_panel",
+                    "bday": 23616050,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "wood_panel",
+                    "bday": 23616050,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "splinter",
+                    "bday": 23616050,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "splinter",
+                    "bday": 23616050,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "splinter",
+                    "bday": 23616050,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                }
+            ],
+            5,
+            4,
+            [
+                {
+                    "typeid": "2x4",
+                    "bday": 23616046,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "2x4",
+                    "bday": 23616046,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "2x4",
+                    "bday": 23616046,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "nail",
+                    "charges": 2,
+                    "bday": 23616046,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "splinter",
+                    "bday": 23616046,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "splinter",
+                    "bday": 23616046,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "splinter",
+                    "bday": 23616046,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "2x4",
+                    "bday": 23616047,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "2x4",
+                    "bday": 23616047,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "2x4",
+                    "bday": 23616047,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "wood_panel",
+                    "bday": 23616047,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "splinter",
+                    "bday": 23616047,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "splinter",
+                    "bday": 23616047,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "splinter",
+                    "bday": 23616047,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                }
+            ],
+            1,
+            5,
+            [
+                {
+                    "typeid": "2x4",
+                    "bday": 23616137,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "2x4",
+                    "bday": 23616137,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "2x4",
+                    "bday": 23616137,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "wood_panel",
+                    "bday": 23616137,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "nail",
+                    "charges": 3,
+                    "bday": 23616137,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "splinter",
+                    "bday": 23616137,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "splinter",
+                    "bday": 23616137,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                },
+                {
+                    "typeid": "splinter",
+                    "bday": 23616137,
+                    "last_rot_check": 0,
+                    "last_temp_check": 0,
+                    "relic_data": null,
+                    "contents": {
+                        "contents": []
+                    }
+                }
+            ]
+        ],
+        "traps": [],
+        "fields": [],
+        "cosmetics": [],
+        "spawns": [],
+        "vehicles": [],
+        "partial_constructions": []
+    }
+]
