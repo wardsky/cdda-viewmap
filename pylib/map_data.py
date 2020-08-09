@@ -38,3 +38,13 @@ class MapData:
                     if i == 1 or i == 3:
                         y += MapData.HEIGHT // 2
                     furniture[x, y] = id
+
+            self.layers['items'] = items = {}
+            for i, submap in enumerate(map_data):
+                for j in range(0, len(submap['items']), 3):
+                    (x, y, item_stack) = submap['items'][j:j+3]
+                    if i == 2 or i == 3:
+                        x += MapData.WIDTH // 2
+                    if i == 1 or i == 3:
+                        y += MapData.HEIGHT // 2
+                    items[x, y] = item_stack[0]['typeid']
